@@ -23,9 +23,13 @@
         Questions:
             How do we detect which pairs are identical? i.e. {2,3} and {3,2} are identical.
             Write a program to filter the identical pairs.
+            Answer is in the problem file.
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: ________________
+1. Open Visual Studio or any other C++ compiler.
+2. Copy the code in .cpp file and paste it on compiler
+3. Run the program 
 
 ## Problem 2: Calculate The Frequency of Numbers in An Array
 
@@ -41,7 +45,11 @@
     Questions:
 
         a. Can we use the output Array to calculate mean of the original array?
+        Program and Answer of this question is in the problem file
 
 
 
-    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 2: ________________
+1. Open Visual Studio or any other C++ compiler.
+2. Copy the code in .cpp file and paste it on compiler
+3. Run the program 
