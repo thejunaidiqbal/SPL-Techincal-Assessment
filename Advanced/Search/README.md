@@ -23,7 +23,7 @@
         Questions:
             How do we detect which pairs are identical? i.e. {2,3} and {3,2} are identical.
             Write a program to filter the identical pairs.
-            Answer is in the problem file.
+            - Answer is in the problem file.
 
 
     Command/Script to Run Problem 1: ________________
@@ -45,7 +45,7 @@
     Questions:
 
         a. Can we use the output Array to calculate mean of the original array?
-        Program and Answer of this question is in the problem file
+        - Program and Answer of this question is in the problem file
 
 
 
