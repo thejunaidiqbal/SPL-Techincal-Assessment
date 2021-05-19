@@ -24,9 +24,14 @@
 
         Questions:
             How do we find the pivot in the array containing even number of elements?
+            - Answer is in the problem file.
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: ________________
+    1. Open Visual Studio or any other C++ compiler.
+    2. Copy the code in .cpp file and paste it on compiler
+    3. Run the program 
+
 
 ## Problem 2: Find maximum number from a list of numbers (both negative and non-negative).
 
@@ -44,6 +49,10 @@
     Questions:
 
        Can we use the method DistributiveArray written above to achieve this?
+       - Answer is in the problem file
 
 
-    Command/Script to Run Problem 2: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 2: ________________
+    1. Open Visual Studio or any other C++ compiler.
+    2. Copy the code in .cpp file and paste it on compiler
+    3. Run the program 
