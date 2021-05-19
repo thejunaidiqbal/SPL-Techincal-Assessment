@@ -24,7 +24,11 @@
         int a'[n]: the rotated array
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: ________________
+    1. Open Visual Studio or any other C++ compiler.
+    2. Copy the code in .cpp file and paste it on compiler
+    3. Run the program 
+    
 
 ## Problem 2: Array Reversal
 
@@ -42,6 +46,11 @@
 
         b. What will be the complexity of the program in terms of time if we
         solve it using rotLeft function?
+        
+        -Answer is in the problem file .cpp
 
 
-    Command/Script to Run Problem 1: ________________ (Fill this in when submitting)
+    Command/Script to Run Problem 1: ________________
+    1. Open Visual Studio or any other C++ compiler.
+    2. Copy the code in .cpp file and paste it on compiler
+    3. Run the program 
