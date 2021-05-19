@@ -6,7 +6,10 @@ Fibonnaci Formula: f(n) = f(n-1) + f(n-2) if n>2 && f(1) = 1, f(2)=1
 This problem is self descriptive.
 You should be able to explain the memoization in comments.
 
-_Command/Script to Run Problem 1: ________________ (Fill this in when submitting)_
+_Command/Script to Run Problem 1: ______________
+1. Open Visual Studio or any other C++ compiler.
+2. Copy the code in .cpp file and paste it on compiler
+3. Run the program 
 
 ## Problem 2: Find Longest Common SubSequence in two strings.
 
